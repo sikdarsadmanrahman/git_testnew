@@ -1,0 +1,6 @@
+working directory --> stagging area -> local repo.-> remote repo.
+ test-project      -> git add            -> git commit  -> git push
+
+
+tracked : git knows about the file
+untracked : git doesn't know about the file
