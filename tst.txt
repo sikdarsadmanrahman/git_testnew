@@ -2,3 +2,4 @@ hello, this is sadman.
 my age is 25 years old.
 I'm a Bangladeshi.
 I'm studying in DIU.
+Alhamdulillah I'm learning git day by day.
