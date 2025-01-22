@@ -1,4 +1,12 @@
 hello, this is sadman.
 my age is 25 years old.
 I'm a Bangladeshi.
+<<<<<<< HEAD
 i don't know what am I doing!!
+=======
+I'm studying in DIU.
+Alhamdulillah I'm learning git day by day.
+>>>>>>> a6a25940ea4fd52f489507b851f25094f1da769e
+
+
+I love Bangladesh and I live in Savar.
